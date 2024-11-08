@@ -9,4 +9,4 @@ jobs:
       - name: print Registration No
         run: echo "22cb049"
       - name: print Name 
-        run: echo "SANJAY"
+        run: echo "SANJAY K"
